@@ -12,3 +12,7 @@ if you use these Files i can not guarantee that nothing breaks and if it does, i
 
 
 !!THIS IS A DIRTY SOLUTION, USE AT YOUR OWN RISK!! 
+
+
+EDIT: 
+OH the Method of installing the LCD was made by https://github.com/splitti and is written here: https://splittscheid.de/phoniebox-display/#ftoc-installation-des-touch-display-alternativer-kiosk-modus
