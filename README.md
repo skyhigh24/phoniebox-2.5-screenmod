@@ -1,8 +1,10 @@
 !!THIS IS A DIRTY SOLUTION, USE AT YOUR OWN RISK!! 
 
 Just an Upload for the Files i edited to get the Phoniebox mini Player like i wanted it to be.
+It is only a Response to a Question here: https://github.com/MiczFlor/RPi-Jukebox-RFID/discussions/2115#discussioncomment-12214106
 
-i used Phoniebox v2.5 and since i dont use Internet on the Box, that never Broke anything.
+
+i used Phoniebox v2.5 and since i dont use Internet on the Box (MAC Blocked in Router), that MOD never Broke anything.
 
 Pleas Mind: 
 I DID NEVER UPDATE TO A NEWER VERSION!!
